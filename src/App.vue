@@ -1,11 +1,11 @@
 <template>
 
     <div class="app" id="app">
-      <div class="banner">
+     <!-- <div class="banner">
         <img class="hidden-md-only hidden-lg-only hidden-xl-only" :src=bannerXSSM alt="banner 图">
         <img class="hidden-xs-only hidden-sm-only hidden-lg-only hidden-xl-only" :src="bannerMD" alt="banner 图">
         <img class="hidden-xs-only hidden-sm-only hidden-md-only" :src="bannerLGXL" alt="banner 图">
-      </div>
+      </div>-->
 
 
       <!-- 第一行 -->
